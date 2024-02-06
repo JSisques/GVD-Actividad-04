@@ -1,0 +1,9 @@
+./dataset/*
+.local
+.jupyter
+.ivy2
+.ipython
+.ipynb_checkpoints
+.config
+.cache
+.yarn
